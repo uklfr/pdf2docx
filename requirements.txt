@@ -1,3 +1,5 @@
-PyMuPDF==1.14.16
+PyMuPDF==1.16.0
 python-docx==0.8.10
 PyExecJS==1.5.1
+fire
+matplotlib

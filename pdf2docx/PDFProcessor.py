@@ -48,8 +48,7 @@ An example of processed layout result:
 
 '''
 
-import util
-
+from pdf2docx import util
 
 def layout(layout):
     '''processed page layout:

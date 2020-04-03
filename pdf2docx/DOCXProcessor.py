@@ -23,7 +23,7 @@ from docx.shared import Pt
 from docx.enum.section import WD_SECTION
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-import util
+from pdf2docx import util
 
 
 
