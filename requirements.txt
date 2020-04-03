@@ -1,6 +1,5 @@
-PyMuPDF==1.16.0
+PyMuPDF==1.16.16
 python-docx==0.8.10
-PyExecJS==1.5.1
-fire
-matplotlib
+PyExecJS==1.14.0
+fire==0.3.0
 #camelot-pycv
